@@ -1,4 +1,4 @@
-# 💸 Discord Payment Bot
+# 💸 Discord Tickets Bot
 
 Bot thanh toán tự động dành cho Discord server — tích hợp với API thanh toán và PostgreSQL.  
 Hỗ trợ slash command, kiểm tra trạng thái, và quản lý giao dịch.
@@ -7,21 +7,19 @@ Hỗ trợ slash command, kiểm tra trạng thái, và quản lý giao dịch.
 
 ## 🛠 Cài đặt & Khởi chạy
 
-### 1. Thiết lập biến môi trường `.env`
+### 1. Thiết lập môi trường
 
-Tạo file `.env` và điền các biến sau:
+Chạy lệnh:
 
-```env
-DISCORD_BOT_TOKEN=your-discord-bot-token
-DATABASE_URL=your-postgres-url
-PAYMENT_API_KEY=your-payment-api-key
+```cmd
+npm install
 ```
 
 ---
 
 ### 2. Khởi động ứng dụng
-#### 🪠 Trên Windows:
-```bash
+#### 🪟 Trên Windows:
+```cmd
 node index.js
 ```
 
@@ -30,19 +28,19 @@ node index.js
 ## 💬 Các Slash Command
 
 | Lệnh | Mô tả |
-|------|------|
-| `/ticket` | Để tạo tickets |
-| `/ticketmessage` | Thông báo tin nhắn tạo tickets |
-| `!setcounter` | Chỉnh sửa số lượng tickets muốn hiển thị |
+|------|-------|
+| 🎫 `/ticket`       | Để tạo tickets |
+| 📢 `/ticketmessage` | Thông báo tin nhắn tạo tickets |
+| 🔄 `!setcounter`    | Chỉnh sửa số lượng tickets muốn hiển thị |
 
 ---
 
 ## ✨ Tính năng nổi bật
 
-- 🧠 **Auto pdate số lượng tickets**: Tự động update channel mỗi 30s 
-- 🔔 **Chọn chủ đề bằng cách click chọn ô**: gửi vào kênh `payment-notifications` và `payment-complete`  
-- 📋 **Quản lý số lượng tickets**: dành cho Admin để theo dõi và chỉnh sửa  
-- 💾 **Claim + Gửi logs ticket**: Để helper dễ dàng quản lý mà không bị người khác can thiệp
+- 🔄 **Auto update số lượng tickets**: Tự động update channel mỗi 30s 
+- ✅ **Chọn chủ đề bằng cách click chọn ô**: gửi vào kênh `payment-notifications` và `payment-complete`  
+- 👨‍💼 **Quản lý số lượng tickets**: dành cho Admin để theo dõi và chỉnh sửa  
+- 📝 **Claim + Gửi logs ticket**: Để helper dễ dàng quản lý mà không bị người khác can thiệp
 
 ---
 
@@ -60,4 +58,3 @@ Pull request và feedback luôn được chào đón ❤️
 ## 📜 Bản quyền
 
 **🔐 Thuộc sở hữu của: Cương Trực © 2025**
-
