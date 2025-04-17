@@ -233,5 +233,4 @@ client.on(Events.InteractionCreate, async (interaction) => {
 
 
 client.login(
-    "MTM1MTQ4ODc0MTUxNTk4OTAyMw.GCRoei.yJMvoX1jJawSA-EB-gDdn60K83vZzFV1WHaX2I",
 );
