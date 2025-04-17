@@ -1,0 +1,236 @@
+{
+  "tickets": [
+    [
+      "1351922849740230748",
+      {
+        "id": 1,
+        "userId": "498382972542648330",
+        "channelId": "1351922849740230748",
+        "category": "Hỗ trợ kỹ thuật",
+        "status": "completed",
+        "createdAt": 1742393925062,
+        "closedAt": 1742393932951
+      }
+    ],
+    [
+      "1351923408228847648",
+      {
+        "id": 2,
+        "userId": "498382972542648330",
+        "channelId": "1351923408228847648",
+        "category": "Realm Survival",
+        "status": "completed",
+        "createdAt": 1742394058333,
+        "closedAt": 1742394061590
+      }
+    ],
+    [
+      "1351923803470561411",
+      {
+        "id": 3,
+        "userId": "498382972542648330",
+        "channelId": "1351923803470561411",
+        "category": "Hỗ trợ kỹ thuật",
+        "status": "completed",
+        "createdAt": 1742394152522,
+        "closedAt": 1742394159355
+      }
+    ],
+    [
+      "1351925214119985312",
+      {
+        "id": 4,
+        "userId": "466612647320748053",
+        "channelId": "1351925214119985312",
+        "category": "Hỗ trợ kỹ thuật",
+        "status": "processing",
+        "createdAt": 1742394488776
+      }
+    ],
+    [
+      "1351927628008915046",
+      {
+        "id": 5,
+        "userId": "498382972542648330",
+        "channelId": "1351927628008915046",
+        "category": "Hỗ trợ kỹ thuật",
+        "status": "processing",
+        "createdAt": 1742395064351
+      }
+    ],
+    [
+      "1351928050127736982",
+      {
+        "id": 6,
+        "userId": "498382972542648330",
+        "channelId": "1351928050127736982",
+        "category": "Hỗ trợ nạp thẻ",
+        "status": "completed",
+        "createdAt": 1742395164920,
+        "claimedBy": "498382972542648330",
+        "claimedAt": 1742395168592,
+        "closedAt": 1742395183490
+      }
+    ],
+    [
+      "1351929316262281286",
+      {
+        "id": 7,
+        "userId": "498382972542648330",
+        "channelId": "1351929316262281286",
+        "category": "Hỗ trợ kỹ thuật",
+        "status": "processing",
+        "createdAt": 1742395466914
+      }
+    ],
+    [
+      "1351929559230185534",
+      {
+        "id": 8,
+        "userId": "498382972542648330",
+        "channelId": "1351929559230185534",
+        "category": "Hỗ trợ kỹ thuật",
+        "status": "processing",
+        "createdAt": 1742395524745,
+        "lastMessageTime": 1742395524905
+      }
+    ],
+    [
+      "1351929665467449394",
+      {
+        "id": 9,
+        "userId": "498382972542648330",
+        "channelId": "1351929665467449394",
+        "category": "áđâs",
+        "status": "completed",
+        "createdAt": 1742395550325,
+        "lastMessageTime": 1742395557717,
+        "claimedBy": "498382972542648330",
+        "claimedAt": 1742395557555,
+        "closedAt": 1742395565384
+      }
+    ],
+    [
+      "1351929847693180928",
+      {
+        "id": 10,
+        "userId": "498382972542648330",
+        "channelId": "1351929847693180928",
+        "category": "Hỗ trợ kỹ thuật",
+        "status": "completed",
+        "createdAt": 1742395593621,
+        "lastMessageTime": 1742395606156,
+        "claimedBy": "498382972542648330",
+        "claimedAt": 1742395600912,
+        "closedAt": 1742395609631
+      }
+    ],
+    [
+      "1351930609152430090",
+      {
+        "id": 11,
+        "userId": "498382972542648330",
+        "channelId": "1351930609152430090",
+        "category": "test aaa",
+        "status": "completed",
+        "createdAt": 1742395775072,
+        "lastMessageTime": 1742395788934,
+        "claimedBy": "498382972542648330",
+        "claimedAt": 1742395783901,
+        "closedAt": 1742395795278,
+        "closedBy": "498382972542648330",
+        "closeReason": "thử nne"
+      }
+    ],
+    [
+      "1351933993959952396",
+      {
+        "id": 12,
+        "userId": "498382972542648330",
+        "channelId": "1351933993959952396",
+        "category": "Hỗ trợ nạp thẻ",
+        "status": "completed",
+        "createdAt": 1742396582048,
+        "claimedBy": "498382972542648330",
+        "claimedAt": 1742396585357,
+        "closedAt": 1742396590210,
+        "closedBy": "498382972542648330",
+        "closeReason": "áđâsdsad"
+      }
+    ],
+    [
+      "1351935079890292857",
+      {
+        "id": 13,
+        "userId": "498382972542648330",
+        "channelId": "1351935079890292857",
+        "category": "Realm Survival",
+        "status": "processing",
+        "createdAt": 1742396840937,
+        "claimedBy": "498382972542648330",
+        "claimedAt": 1742396847408
+      }
+    ],
+    [
+      "1351938659959701535",
+      {
+        "id": 14,
+        "userId": "498382972542648330",
+        "channelId": "1351938659959701535",
+        "category": "Hỗ trợ kỹ thuật",
+        "status": "completed",
+        "createdAt": 1742397695220,
+        "claimedBy": "498382972542648330",
+        "claimedAt": 1742397700227,
+        "closedAt": 1742397708833,
+        "closedBy": "498382972542648330",
+        "closeReason": "áđâsdsad"
+      }
+    ],
+    [
+      "1351942709090320586",
+      {
+        "id": 15,
+        "userId": "498382972542648330",
+        "channelId": "1351942709090320586",
+        "category": "Realm Survival",
+        "status": "completed",
+        "createdAt": 1742398659905,
+        "closedAt": 1742398672739,
+        "closedBy": "498382972542648330",
+        "closeReason": "sdsds"
+      }
+    ],
+    [
+      "1351943045183963206",
+      {
+        "id": 16,
+        "userId": "498382972542648330",
+        "channelId": "1351943045183963206",
+        "category": "Hỗ trợ kỹ thuật",
+        "status": "completed",
+        "createdAt": 1742398740156,
+        "closedAt": 1742398748059,
+        "closedBy": "498382972542648330",
+        "closeReason": "sađâs"
+      }
+    ],
+    [
+      "1352190285186334781",
+      {
+        "id": 55,
+        "userId": "498382972542648330",
+        "channelId": "1352190285186334781",
+        "category": "Hỗ trợ kỹ thuật",
+        "status": "processing",
+        "createdAt": 1742457686773
+      }
+    ]
+  ],
+  "stats": {
+    "total": 11,
+    "processing": 0,
+    "completed": 11
+  },
+  "lastTicketId": 68
+}
